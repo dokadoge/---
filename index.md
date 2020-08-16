@@ -1,12 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to fitrvolution!
 
-You can use the [editor on GitHub](https://github.com/dokadoge/firevolution-Dihuo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+欢迎来到地火社同志们！这个网站是试做版，目前只能用来投放私钥，日后会添加马列书籍和更多的新功能以及更完善的主页！欢迎会编程的同志们加入我们的团队！
+### 私钥（采用RSA加密）
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+----BEGIN RSA PRIVATE KEY-----
+MIICWwIBAAKBgQCHOY9kRHAc144icVdd3wUIpu0VHcCF9kZu4pURo6EJLugzmR9B
+xzqXpLXUKNNv06VlF3bwlbqU8JON+6Mih0ffPloiuJUwzUvq1zPQYamqNkqgPGJt
+uXq5MZbqofwABPjT4f8NiYRaK7z5N3ZmIiKhix5GwkuCl289nlNcVDBtJQIDAQAB
+AoGAC/iykyPj8Qm8UZxLKcpWvb9ZeecaZkG5VpPEsr0TwqZedEL4G3Cx5T71wgSj
+Q2EvYVXEd+QpkooB5i4C8UmcuSvqDLyR1ZVwDXuJo+G+lNHWfNghGp/q3TDEuI11
+JiU8mKHP0Vl+XZBqWfoVEWZCx9o/ipeBE1JtTR2p8fs9FLkCQQDBX6BlA5yQ/+w1
+CewZ7fo+gaRBBJOLcaNhVVyzOHvrDvZHztYhz+97i+urHMEyAjlzjIBq3EG/wmyc
+Pfo/iiqXAkEAswTksVku9j77Yu4s2FjT3YS9kK4fUbWOX3t5L+brggKrG5/iR1TM
+3vcliCgSvrOBueEomc9Q7NOTi/bdqQgJowJAWW1D2/NDoLr6Hb0s9wDbTbTepULc
+iQxQpl63tBpXFGmi86pv1Ms40UXwAv4VSm9E6m77pG+f6HKdj9QJuwDGmQJAcjLp
+7JSW17E/zlFfvDeWF9bI0tWw1v/5rcFngn5NuCcZnkq1H4niE04X3C6sHokGdVxD
++TJ+TkV99yhpKJ4e/wJAKWc/Lq8ylYGsclxiOUZJwQOH4TxirtvkYDrfTmKb6yhH
+hW1uTW8WudSlSHgrbJKzUyQnDVRtoQcAQ1tms0VVxA==
+-----END RSA PRIVATE KEY-----
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
